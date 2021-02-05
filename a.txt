@@ -1,4 +1,1 @@
-#include <stdio.h>
-int main(){
-    printf("Hello Git\n");
-}
+hello git from 1553bc1
